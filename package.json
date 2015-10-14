@@ -1,6 +1,6 @@
 {
   "name": "lfr-modern-alert-themelet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A slight variation of Bootstrap 3 alerts.",
   "keywords": [
     "liferay-theme"
