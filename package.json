@@ -11,12 +11,6 @@
   "liferayTheme": {
     "screenshot": "https://raw.githubusercontent.com/Robert-Frampton/lfr-modern-alert-themelet/master/screenshot.png",
     "themelet": true,
-    "version": [
-      "6.2",
-      "7.0"
-    ]
-  },
-  "publishConfig": {
-    "tag": "7_0_x"
+    "version": "*"
   }
 }
